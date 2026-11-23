@@ -1,0 +1,1 @@
+AINOTE compatibility change, 2026-10-29: python/ext/ufuncs.c uses const npy_intp pointers for NumPy ufunc dimensions/steps. Algorithm unchanged. Upstream: https://aubio.org/ version 0.4.9; original source: https://pypi.org/project/aubio/0.4.9/ . License: GPL-3.0-or-later, see COPYING. Full modified source is included in this directory.

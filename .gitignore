@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+.venv-audio/
+work/
+
+models/*.ckpt
+models/*.parts/
+models/*.download
+
+# Local recovery copies; the corresponding source files are tracked.
+.ui-renewal-backup.*/
+sketch/*.blank-backup

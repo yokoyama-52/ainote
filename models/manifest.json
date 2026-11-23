@@ -1,0 +1,20 @@
+{
+  "small0": {
+    "sha256": "6074be2c4d490c5f6101fcc374a1ec72ae93456e23bb6019783b849f5dc7d47b",
+    "sha1": "77a7ef5c21f628578f2b259ac29d2d680412efcc",
+    "bytes": 8451101,
+    "source": "https://cloud.cp.jku.at/public.php/dav/files/7ik4RrBKTS273gp/small0.ckpt",
+    "license": "MIT",
+    "attribution": "Francesco Foscarin, Jan Schlüter, Gerhard Widmer / JKU Linz, Beat This! (2024)",
+    "model_card": "https://github.com/CPJKU/beat_this#license"
+  },
+  "small1": {
+    "sha256": "edb4830efe6b93aed7266be5d7853242bada0b482614891c00e1ddc103f85360",
+    "sha1": "db340bf57807a4899ba586f239cdcefe45e6ce1b",
+    "bytes": 8451101,
+    "source": "https://cloud.cp.jku.at/public.php/dav/files/7ik4RrBKTS273gp/small1.ckpt",
+    "license": "MIT",
+    "attribution": "Francesco Foscarin, Jan Schlüter, Gerhard Widmer / JKU Linz, Beat This! (2024)",
+    "model_card": "https://github.com/CPJKU/beat_this#license"
+  }
+}

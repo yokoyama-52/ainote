@@ -1,0 +1,1 @@
+"""PC karaoke percussion prototype."""
